@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">exemploWidgets</string>
+    <string-array name="NtOperacoes">
+        <item name="Somar"> Somar </item>
+        <item name="Subtrair"> Subtrair </item>
+    </string-array>
+</resources>
